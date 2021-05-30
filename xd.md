@@ -15,6 +15,7 @@
 ### 相关资料搜集(以机器学习为例)
 
 - 最新机器学习论文与Github上的代码：<a href="https://paperswithcode.com/" target="_blank">Papers with Code</a>
+- Awesome系列之——<a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">数据集</a>
 
 - 自己总结：
   >举例子：<a href="https://loganalysis.github.io/relatedData/" target="_blank">日志相关学习资料</a>
