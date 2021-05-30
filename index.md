@@ -2,7 +2,7 @@
 
 ## 1.1
 
-## 1.2 <a href="./xd.html" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
+## 1.2 <a href="./xd.html" target="_self"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
 
 
 # 2. 毕业生找工作经验之谈
