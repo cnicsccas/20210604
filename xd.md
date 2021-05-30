@@ -19,7 +19,7 @@
 - 自己总结：
   >举例子：<a href="https://loganalysis.github.io/relatedData/" target="_blank">日志相关学习资料</a>
 
-### 寄语by<a href="https://github.com/Dongzhixiao" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
+### 寄语by<a href="./" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
 
 好好学习，论文多多！
 
