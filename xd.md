@@ -6,7 +6,7 @@
 
 ### 如何写论文
 
-- <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师</a>分享的PPT：<a href="https://xpqiu.github.io/slides/20181019-PaperWriting.pdf" target="_blank">如何端到端地写科研论文？</a>
+- 邱锡鹏老师分享的PPT：<a href="https://xpqiu.github.io/slides/20181019-PaperWriting.pdf" target="_blank">如何端到端地写科研论文？</a>
 
 ### 如何想创新点
 
@@ -19,6 +19,11 @@
 
 - 自己总结：
   >举例子：<a href="https://loganalysis.github.io/relatedData/" target="_blank">日志相关学习资料</a>
+
+### 分享代码/资料/个人主页
+
+- <a href="https://ccfddl.github.io/">CCF Conference Deadlines</a>
+- <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师个人主页</a>
 
 ### 寄语by<a href="./" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
 
