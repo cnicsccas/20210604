@@ -22,7 +22,7 @@
 
 ### 分享代码/资料/个人主页
 
-- <a href="logpai.github.io" target="_blank">LogPAI代码/资料展示主页</a>
+- <a href="https://logpai.github.io" target="_blank">LogPAI代码/资料展示主页</a>
 - <a href="https://ccfddl.github.io/" target="_blank">CCF Conference Deadlines</a>
 - <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师个人主页</a>
 
