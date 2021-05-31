@@ -22,9 +22,13 @@
 
 ### 分享代码/资料/个人主页
 
-- <a href="https://logpai.github.io" target="_blank">LogPAI代码/资料展示主页</a>
-- <a href="https://ccfddl.github.io/" target="_blank">CCF Conference Deadlines</a>
-- <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师个人主页</a>
+- 分享代码，例如：
+  >- <a href="https://logpai.github.io" target="_blank">LogPAI代码/资料展示主页</a>
+- 分享资料，例如：
+  >- <a href="https://ccfddl.github.io/" target="_blank">CCF Conference Deadlines</a>
+- 个人主页，例如：
+  >- <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师的个人主页</a>
+  >- <a href="https://rusty1s.github.io/" target="_blank">Matthias Fey的个人主页(PyG的作者)</a>
 
 ### 寄语by<a href="./" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
 
