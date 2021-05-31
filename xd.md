@@ -22,7 +22,7 @@
 
 ### 分享代码/资料/个人主页
 
-- <a href="https://ccfddl.github.io/">CCF Conference Deadlines</a>
+- <a href="https://ccfddl.github.io/" target="_blank">CCF Conference Deadlines</a>
 - <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师个人主页</a>
 
 ### 寄语by<a href="./" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
