@@ -29,6 +29,8 @@
 - 个人主页，例如：
   >- <a href="https://xpqiu.github.io/" target="_blank">邱锡鹏老师的个人主页</a>
   >- <a href="https://rusty1s.github.io/" target="_blank">Matthias Fey的个人主页(PyG的作者)</a>
+- 会议，例如：
+  >- <a href="https://github.com/pragmagrid/pragmagrid.github.io" target="_blank">PRAGMA会议</a>
 
 ### 寄语by<a href="./" target="_blank"><img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="22" /></a>
 
