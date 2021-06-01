@@ -9,7 +9,7 @@
 
 ## 2.1 
 
-# 3. 毕业生寄语集合
+# 3. 毕业生寄语/分享集合
 <a href="./wucan.html" target="_self"><img src="https://avatars.githubusercontent.com/u/14739924?s=400&u=a095e50a3f13a6f56f784fd9cb4097bd4d033416&v=4" width="22" /></a>
 
 
