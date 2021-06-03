@@ -83,6 +83,8 @@
 
 # 5. 寄语by<img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="26" style="border-radius:50%; " />
 
-感谢中心老师们的指导与帮助！希望师弟师妹们好好学习，论文多多！
+感谢中心老师们的指导与帮助！
+希望师弟师妹们:  
+<div class="animate__animated animate__flash animate__infinite"><font color="red" size="4">好好学习，论文多多！</font></div>
 
 [返回](/20210604)
