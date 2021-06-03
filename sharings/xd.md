@@ -12,7 +12,7 @@
   - 是否有足够领域知识理解这篇论文
   - 作者假设是否合理
 
-否，则直接跳过，是则仔细阅读，方法详见上面的PDF文件。
+否，则直接跳过；是，则仔细阅读，方法详见上面的PDF文件
 
 - 仔细阅读时可以记录论文笔记
 >举例子：<a href="https://userbehavioranalysis.github.io/GCNReading/pyg.html" target="_blank">论文笔记</a>
@@ -21,7 +21,7 @@
 
 - 邱锡鹏老师分享的PPT：<a href="https://xpqiu.github.io/slides/20181019-PaperWriting.pdf" target="_blank">如何端到端地写科研论文？</a>
 
-<font size="5" color="pink">注：以下内容摘抄自邱锡鹏老师分享的PPT，建议阅读原文，每部分都有示例</font>
+<font size="5" color="red">注：以下内容摘抄自邱锡鹏老师分享的PPT，建议阅读原文，每部分都有示例</font>
 
 - 大部分审稿人的阅读流程：
   - 5分钟的快速浏览：Title → Abstract → Introduction → Related Work → Conclusion
@@ -31,11 +31,11 @@
 - 摘要的写法：
   - 几句话概括你的工作
     - 问题是什么
-    - 我们要做什么？
+    - 我们要做什么
     - 大概怎么做
     - 说明做的还不错(简述实验主要结论)
 - 介绍的写法：
-  - 起：问题是什么？
+  - 起：问题是什么
   - 承：相关工作
   - 转：相关工作的不足与转机
   - 合：本文工作+本文贡献点
@@ -70,6 +70,7 @@
 # 4. 展示(如何使用github.io分享代码/资料/个人主页)
 
 - 分享代码，例如：
+  >- <a href="http://ristov.github.io/" target="_blank">SLCT(Simple Logfile Clustering Tool)作者的主页</a>
   >- <a href="https://logpai.github.io" target="_blank">LogPAI代码/资料展示主页</a>
 - 分享资料，例如：
   >- <a href="https://ccfddl.github.io/" target="_blank">CCF Conference Deadlines</a>
