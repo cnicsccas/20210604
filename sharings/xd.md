@@ -14,8 +14,9 @@
 
 否，则直接跳过；是，则仔细阅读，方法详见上面的PDF文件
 
-- 仔细阅读时可以记录论文笔记
->举例子：<a href="https://userbehavioranalysis.github.io/GCNReading/pyg.html" target="_blank">论文笔记</a>
+- 第二步：
+  - 仔细阅读时可以记录论文笔记
+  >举例子：<a href="https://userbehavioranalysis.github.io/GCNReading/pyg.html" target="_blank">论文笔记</a>
 
 # 2. 如何写论文
 
@@ -80,8 +81,8 @@
 - 会议，例如：
   >- <a href="https://github.com/pragmagrid/pragmagrid.github.io" target="_blank">PRAGMA会议</a>
 
-### 5. 寄语by<img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="26" style="border-radius:50%; " />
+# 5. 寄语by<img src="https://avatars.githubusercontent.com/u/8464332?v=4" width="26" style="border-radius:50%; " />
 
-好好学习，论文多多！
+希望师弟师妹们好好学习，论文多多！
 
 [返回](/20210604)
